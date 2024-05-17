@@ -1,0 +1,9 @@
+#quoteButton:hover {
+    background-color: green;
+    border-color: green;
+}
+
+.font-size{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
